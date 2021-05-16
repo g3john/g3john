@@ -1,4 +1,4 @@
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=g3john)](https://github.com/anuraghazra/github-readme-stats)
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=g3john?theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **g3john/g3john** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
